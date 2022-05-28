@@ -15,7 +15,7 @@
     ch1/1-7.md
     ch1/1-8.md
     ch1/1-9.md
-    ch1/1/10.md
+    ch1/1-10.md
 
 .. toctree::
     :maxdepth: 0
