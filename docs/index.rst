@@ -6,7 +6,7 @@
     :maxdepth: 0
     :caption: 1.裁判系统异常解决方案
 
-    ch1/1-1.md
+    4-1.md
     ch1/1-2.md
     ch1/1-3.md
     ch1/1-4.md
