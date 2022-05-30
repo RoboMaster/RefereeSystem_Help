@@ -7,6 +7,7 @@
     :caption: 1.裁判系统异常解决方案
 
     4-1.md
+    ch1/1.md
     ch1/1-2.md
     ch1/1-3.md
     ch1/1-4.md
@@ -22,6 +23,7 @@
     :caption: 2.裁判系统故障解决方案
 
     ch2/2-1.md
+    ch2/1.md
     ch2/2-2.md
     ch2/2-3.md
     ch2/2-4.md
