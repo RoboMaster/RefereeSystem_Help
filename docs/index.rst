@@ -16,6 +16,7 @@
     s1/8.md
     s1/9.md
     s1/10.md
+    s1/11.md
 
 .. toctree::
     :maxdepth: 0
