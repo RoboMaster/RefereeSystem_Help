@@ -19,11 +19,11 @@
 
 from recommonmark.parser import CommonMarkParser
 
-source_suffix = ['.rst', '.md']
-
 source_parsers = {
-    '.md': CommonMarkParser,
-}
+            '.md': CommonMarkParser,
+            }
+
+source_suffix = ['.rst', '.md']
 
 project = '裁判系统帮助指引手册'
 copyright = '2022, RoboMaster'
