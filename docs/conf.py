@@ -22,7 +22,7 @@ from recommonmark.parser import CommonMarkParser
 source_suffix = ['.rst', '.md']
 
 source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
+    '.md': recommonmark.parser.CommonMarkParser
 }
 
 project = '裁判系统帮助指引手册'
