@@ -22,7 +22,7 @@ from recommonmark.parser import CommonMarkParser
 source_suffix = ['.rst', '.md']
 
 source_parsers = {
-    '.md': recommonmark.parser.CommonMarkParser
+    '.md': CommonMarkParser,
 }
 
 project = '裁判系统帮助指引手册'
@@ -36,6 +36,7 @@ author = 'RoboMaster'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'recommonmark',
     'sphinx_markdown_tables'
 ]
 
