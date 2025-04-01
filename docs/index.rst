@@ -30,7 +30,7 @@
     s2/5.md
     s2/6.md
     s2/7.md
-
+    s2/8.md
 .. toctree::
     :maxdepth: 0
     :caption: 3.裁判系统文档
