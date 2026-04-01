@@ -28,6 +28,12 @@
     s1/20.md
     s1/21.md
     s1/22.md
+    s1/23.md
+    s1/24.md
+    s1/25.md
+    s1/26.md
+    s1/27.md
+
 .. toctree::
     :maxdepth: 0
     :caption: 2.裁判系统常用操作说明
